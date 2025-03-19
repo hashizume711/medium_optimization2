@@ -7,3 +7,6 @@ culture_result sheet : This sheet describes the relationship between culture med
 cocktail information : This sheet includes information on cocktails. The Cocktail column indicates the classification of the cocktail, while the addition column represents the addition volume of the compound stock required to prepare 1 mL of commercial eRDF medium.
 
 compound stock sheet : This sheet includes the concentrations of the compound stocks used for culture medium preparation.
+
+# Medium_optimization
+This file contains code for culture medium optimization. The output represents the addition volume of the compound stock required to prepare 1 mL of the culture medium. The concentrations of the compound stocks are documented in the Data file. 
